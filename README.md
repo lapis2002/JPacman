@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.com/SERG-Delft/jpacman.svg?branch=master)](https://travis-ci.com/SERG-Delft/jpacman)
 
+## SENG 275
+This semester, we'll be writing our tests against java program called JPacman, an incomplete implementation of Pac-Man arcade game.
 ## About
 
 Pacman-like game used for teaching software testing.
